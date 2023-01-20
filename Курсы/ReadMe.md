@@ -1,4 +1,4 @@
 # отец солдатаhttps://docs.google.com/document/d/1OTNPNYexSzJqPMcs3bXaMHR1En8s2Uk1i850lswpgo8/edit?usp=drivesdk
 # скилбокс https://live.skillbox.ru/webinars/design/razbiraemsya-kak-prevratit-risunki-v-dengi191222/
 # студенческий цех https://sun9-81.userapi.com/impg/zbXxgvNCwBjk_5tePb8K_4ppjPj9U-8RQ46bsg/RC0zvw2e81I.jpg?size=720x1600&quality=95&sign=2874724c1719c098eb69757d1a712ce0&type=album
-# https://docs.google.com/document/d/1LEVNNJZao_7kOgoO9cBVizpY5sp3wPBcATpt2jWwoEQ/edit?usp=sharing конспект курса skilbox
+# конспект курса skilbox https://docs.google.com/document/d/1LEVNNJZao_7kOgoO9cBVizpY5sp3wPBcATpt2jWwoEQ/edit?usp=sharing 
