@@ -4,3 +4,4 @@
 # конспект курса skilbox https://docs.google.com/document/d/1LEVNNJZao_7kOgoO9cBVizpY5sp3wPBcATpt2jWwoEQ/edit?usp=sharing 
 # презентация Skilbox https://docs.google.com/presentation/d/14NXFCJw0Nwl2OLCiS-0W-Q_rxNXDZyv1/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
 # акселератор итог теста https://docs.google.com/document/d/13V4CXbZg_zdtByRhoTLmrWeZRJaDPgnR_kDC085ao8w/edit?usp=sharing
+# курс скилбокс https://live.skillbox.ru/webinars/design/teoriya-landshaftnogo-dizaina020223/
