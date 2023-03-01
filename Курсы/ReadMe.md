@@ -8,3 +8,4 @@
 # курс скилбокс https://live.skillbox.ru/webinars/design/teoriya-landshaftnogo-dizaina020223/
 # конспект скилбокс 2.0 https://docs.google.com/document/d/1ByB76keZ4ZIFoJ253_IY9hTj9sp2C7Y_R0WdlgfTBpw/edit?usp=sharing
 # презентация скилбокс 2.0 https://docs.google.com/presentation/d/1ObxMxSQq11IeR9Jqw726aMr57v_re7-_/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
+# код питон https://docs.google.com/presentation/d/1MMKthMAcXJbA-tMPE2nHdETsJthF78bI/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
