@@ -9,4 +9,4 @@
 # конспект скилбокс 2.0 https://docs.google.com/document/d/1ByB76keZ4ZIFoJ253_IY9hTj9sp2C7Y_R0WdlgfTBpw/edit?usp=sharing
 # презентация скилбокс 2.0 https://docs.google.com/presentation/d/1ObxMxSQq11IeR9Jqw726aMr57v_re7-_/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
 # код питон https://docs.google.com/presentation/d/1MMKthMAcXJbA-tMPE2nHdETsJthF78bI/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
-# ![Снимок экрана (57)](https://user-images.githubusercontent.com/113089694/225556633-88e7c4dc-a463-4306-8ce0-804a9af21ebe.png)
+# ![image](https://user-images.githubusercontent.com/113089694/225557569-f2f9036f-ea2d-4a6c-ad6c-accf458df4b8.png)
