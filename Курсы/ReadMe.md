@@ -10,3 +10,4 @@
 # презентация скилбокс 2.0 https://docs.google.com/presentation/d/1ObxMxSQq11IeR9Jqw726aMr57v_re7-_/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
 # код питон https://docs.google.com/presentation/d/1MMKthMAcXJbA-tMPE2nHdETsJthF78bI/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
 # ![image](https://user-images.githubusercontent.com/113089694/225557569-f2f9036f-ea2d-4a6c-ad6c-accf458df4b8.png)
+# ![image](https://user-images.githubusercontent.com/113089694/227120624-937781d1-c97b-4e05-92df-b91758039bc4.png)
