@@ -13,4 +13,4 @@
 # ![image](https://user-images.githubusercontent.com/113089694/227120624-937781d1-c97b-4e05-92df-b91758039bc4.png)
 # ![image](https://user-images.githubusercontent.com/113089694/227139913-dfbd813c-776d-4051-95ea-64cf641c55ef.png)
 # HakerRank https://docs.google.com/presentation/d/16k5gvlOWXlC0bvtsmM4ZhvfuGPwTU-5j/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
-# скилбокс 3.0https://live.skillbox.ru/webinars/design/sketching-dlya-dizainera/
+# скилбокс 3.0 https://vk.com/away.php?to=https%3A%2F%2Flive.skillbox.ru%2Fwebinars%2Fdesign%2Fznakomimsya-s-professiei-graficheskogo-dizainera270423%2F&cc_key=
