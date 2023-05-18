@@ -16,3 +16,7 @@
 # скилбокс 3.0 https://vk.com/away.php?to=https%3A%2F%2Flive.skillbox.ru%2Fwebinars%2Fdesign%2Fznakomimsya-s-professiei-graficheskogo-dizainera270423%2F&cc_key=
 # конспект скилбокс 3.0 https://docs.google.com/document/d/1a_oomSJCnjm7lFCjezczvwX4_wpECj1b4I7vazUCvQ4/edit?usp=sharing
 # презентация 3.0 https://docs.google.com/presentation/d/1dW4QlLrT1kSjLS-0k0M7ORw9NOrfJfHH5DRd-eSnR-M/edit?usp=sharing
+# интенсив 4.0 https://live.skillbox.ru/webinars/design/izuchaem-osnovy-risunka060323/
+# презентация 4.0 https://docs.google.com/presentation/d/1g69zFWezQxThCvveKaOsfKnIZRahwZ94/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
+# интенсив 5.0 https://live.skillbox.ru/webinars/design/znakomimsya-s-professiei-dizainera-interera-i-sozdayom-dosku-nastroeniya270223/
+# презентация 5.0 https://docs.google.com/presentation/d/1HKdHrg_oeCP38lyWJQeAXj05wO6YNQRF/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
