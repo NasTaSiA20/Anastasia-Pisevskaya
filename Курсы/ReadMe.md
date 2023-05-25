@@ -20,3 +20,6 @@
 # презентация 4.0 https://docs.google.com/presentation/d/1g69zFWezQxThCvveKaOsfKnIZRahwZ94/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
 # интенсив 5.0 https://live.skillbox.ru/webinars/design/znakomimsya-s-professiei-dizainera-interera-i-sozdayom-dosku-nastroeniya270223/
 # презентация 5.0 https://docs.google.com/presentation/d/1HKdHrg_oeCP38lyWJQeAXj05wO6YNQRF/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
+# https://docs.google.com/presentation/d/1yOYprGXhJiHW5l6qWeG-N0UwiuWnpr_E/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
+# https://docs.google.com/presentation/d/1eN_9XxkaqTaCTypGi1qP8LUElcpAtw4Y/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
+# https://docs.google.com/presentation/d/1HKdHrg_oeCP38lyWJQeAXj05wO6YNQRF/edit?usp=sharing&ouid=113646634733123735863&rtpof=true&sd=true
